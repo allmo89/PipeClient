@@ -1,0 +1,7 @@
+c:\users\administrador\documents\visual studio 2010\Projects\PipeClient\bin\Debug\PipeClient.exe
+c:\users\administrador\documents\visual studio 2010\Projects\PipeClient\bin\Debug\PipeClient.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\PipeClient\obj\x86\Debug\PipeClient.exe
+c:\users\administrador\documents\visual studio 2010\Projects\PipeClient\obj\x86\Debug\PipeClient.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeClient\obj\x86\Debug\PipeClient.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeClient\bin\Debug\CSP.RSA.Cipher.dll
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\PipeClient\bin\Debug\CSP.RSA.Cipher.pdb
